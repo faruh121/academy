@@ -102,3 +102,23 @@ h3{
 .siz{
     font-size: 30px;
 }
+.bt{
+    position: relative;
+    margin-left: 5px;
+}
+p{
+    margin-top: 20px;
+}
+h1{
+    margin-top: 10px;
+}
+h2{
+    margin-top: 10px;
+}
+h3{
+    margin-top: 10px;
+}
+hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
