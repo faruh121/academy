@@ -22,6 +22,10 @@ header,footer{
 
 
 }
+.logo{
+    position: relative;
+    left: 30px;
+}
 main{
     flex: auto;
     padding: 20px 10px;
@@ -121,4 +125,8 @@ h3{
 hr{
     margin-top: 5px;
     margin-bottom: 5px;
+}
+img{
+    width: 500px;
+    height: 326px;
 }
